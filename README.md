@@ -18,4 +18,4 @@ Breadth-first search, Dijkstra, Greedy best-first search, A-Star
 ![Labyrinth](https://user-images.githubusercontent.com/17348039/100599553-92d6e080-332e-11eb-95b5-7a5b199ac57d.jpg)
 ![TerrainCost](https://user-images.githubusercontent.com/17348039/100599528-8a7ea580-332e-11eb-8ed2-2f82ea7e59af.jpg)
 
->This is originally from Udemy [Pathfinding in Unity](https://www.udemy.com/course/pathfinding-in-unity/) Course. I am just following.
+>This is originally from Udemy [Pathfinding in Unity](https://www.udemy.com/course/pathfinding-in-unity/) Course. 
